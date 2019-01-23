@@ -1,3 +1,7 @@
+# Cloud CAM PWA
+
+An Offline PWA Camera App with React and Cloudinary
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
